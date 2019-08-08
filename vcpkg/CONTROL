@@ -1,4 +1,0 @@
-Source: ros-dashing-ament-index-cpp
-Version: 0.7.0
-Description: C++ API to access the ament resource index.
-Build-Depends:
